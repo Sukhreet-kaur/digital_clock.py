@@ -1,4 +1,5 @@
 
+#Digital Clock using Python
 from tkinter import *
 from tkinter.ttk import *
 from time import strftime #helps to analyse current time
